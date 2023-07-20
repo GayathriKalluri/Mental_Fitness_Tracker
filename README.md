@@ -1,6 +1,5 @@
 # Mental Fitness Tracker Project
-
-![Mental Fitness Tracker](link_to_image)
+The Mental Fitness Project is a data analysis and visualization tool that explores mental health and substance use disorder data. Utilizing two datasets, it provides insights into prevalence rates and trends, aiding in understanding mental health landscapes. The project offers interactive charts and descriptive statistics to promote awareness and informed decision-making for mental well-being.
 
 ## Table of Contents
 1. [Introduction](#introduction)
